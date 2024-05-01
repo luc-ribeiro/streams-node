@@ -180,7 +180,3 @@ Toda porta de entrada e saída no Node, é uma stream. É possível processar ar
 ```
 
 Visualize o envio gradual de uma contagem de 1 até 5, no terminal do ```stream-http-server.js```
-
-## :memo: License
-
-Copyright © 2024 Lucas Ribeiro
