@@ -145,16 +145,6 @@ Toda porta de entrada e saída no Node, é uma stream. É possível processar ar
   $ git clone https://github.com/luc-ribeiro/streams-nodejs.git
 ```
 
-- Instale as dependências:
-
-```sh
-  # com npm
-  $ npm install
-
-  # com yarn
-  $ yarn install
-```
-
 - Execute o comando:
 
 ```sh
